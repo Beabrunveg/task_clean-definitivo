@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Easy Clean
 
 ## Description
@@ -179,3 +180,6 @@ This app follows a simplified Clean Architecture approach to improve code organi
 * **riverpod_generator:** Code generator for the Riverpod state management solution.
 * **riverpod_lint:** Linting rules specific to the Riverpod package.
 * **very_good_analysis:** A stricter set of analysis options for Dart, enforcing better code quality.
+=======
+# task_clean-definitivo
+>>>>>>> 873f86cb72dd1c3cb94bcadfd5d820e6241e8c53
